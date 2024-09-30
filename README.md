@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Ano Lawa!
 
-<!--
-**Mushroom-Ano/Mushroom-Ano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring software engineer studying at **Brunel University**. Passionate about creating innovative software solutions and exploring game development.
 
-Here are some ideas to get you started:
+### 🛠️ Languages & Tools I Use
+<div align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 Showcases
+
+https://github.com/Mushroom-Ano/Non-Euclidian-Geometry-Game
+![DemoProject](https://github.com/user-attachments/assets/286ad040-2ada-4264-94ef-36bf9a05a138)
+
+https://github.com/Mushroom-Ano/KabalMinigame
+![KabalGame](https://github.com/user-attachments/assets/8ee83e35-75d4-4387-856c-589e009273c4)
+
+---
+
+### 📫 Let's Connect
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/ano-lawa-184176236/)
+- Email: [anolawa@gmail.com](mailto:anolawa@gmail.com)
