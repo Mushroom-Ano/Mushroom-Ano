@@ -15,13 +15,11 @@ Aspiring software engineer studying at **Brunel University**. Passionate about c
 
 ### 🔭 Showcases
 
-[🔗 Demo Project](https://github.com/Mushroom-Ano/Non-Euclidian-Geometry-Game) 
+[Demo Project](https://github.com/Mushroom-Ano/Non-Euclidian-Geometry-Game) 
 ![DemoProject](https://github.com/user-attachments/assets/8dca05e7-acd6-4f68-990f-cb837795a7d6)  
 
-[🔗 Kabal Game](https://github.com/Mushroom-Ano/KabalMinigame) 
+[Kabal Game](https://github.com/Mushroom-Ano/KabalMinigame) 
 ![KabalGame](https://github.com/user-attachments/assets/8ee83e35-75d4-4387-856c-589e009273c4)  
-
-
 
 ---
 
