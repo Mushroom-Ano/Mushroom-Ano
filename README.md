@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ano Lawa!
+# 👋 Hi!
 
 Aspiring software engineer studying Computer Science (Artificial Intelligence) at **Brunel University**. Passionate about creating innovative software solutions and exploring game development.
 
