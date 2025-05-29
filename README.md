@@ -21,6 +21,10 @@ Aspiring software engineer studying Computer Science (Artificial Intelligence) a
 [Kabal Game](https://github.com/Mushroom-Ano/KabalMinigame) 
 ![KabalGame](https://github.com/user-attachments/assets/8ee83e35-75d4-4387-856c-589e009273c4)  
 
+[CentipedeCPP](https://github.com/Mushroom-Ano/CentipedeCPP) 
+![CentipedeCPP](https://github.com/user-attachments/assets/23b8fff9-fe3a-4e17-951c-641fdeaafa96)
+
+
 ---
 
 ### 📫 Let's Connect
