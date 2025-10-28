@@ -1,33 +1,55 @@
-# 👋 Hi!
+# yo
 
-Aspiring software engineer studying Computer Science (Artificial Intelligence) at **Brunel University**. Passionate about creating innovative software solutions and exploring game development.
+Software Engineer ;)
+I’m passionate about **creating innovative software solutions**, exploring **AI applications**, and developing **immersive games**.
 
-### 🛠️ Languages & Tools I Use
+---
+
+## 🧠 About Me
+- 🎓 Currently pursuing BSc Computer Science (Artificial Intelligence)  
+- 💡 Interested in AI-driven creativity, procedural generation, and gameplay mechanics  
+- 🧩 Always learning new technologies and experimenting with interactive systems  
+
+---
+
+## 🛠️ Languages & Tools
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div>
 
 ---
 
-### 🔭 Showcases
+## 🚀 Featured Projects
 
-[Demo Project](https://github.com/Mushroom-Ano/Non-Euclidian-Geometry-Game) 
-![DemoProject](https://github.com/user-attachments/assets/8dca05e7-acd6-4f68-990f-cb837795a7d6)  
-
-[Kabal Game](https://github.com/Mushroom-Ano/KabalMinigame) 
-![KabalGame](https://github.com/user-attachments/assets/8ee83e35-75d4-4387-856c-589e009273c4)  
-
-[CentipedeCPP](https://github.com/Mushroom-Ano/CentipedeCPP) 
-![CentipedeCPP](https://github.com/user-attachments/assets/23b8fff9-fe3a-4e17-951c-641fdeaafa96)
-
+### [**AnoAI – Stable Diffusion Toolkit**](https://github.com/Mushroom-Ano/AnoAI-StableDiffusion)
+An AI art generation and experimentation platform built around **Stable Diffusion**, designed to streamline prompt creation and model management.  
+> Integrating creativity and deep learning for accessible AI image generation.
 
 ---
 
-### 📫 Let's Connect
-- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/ano-lawa-184176236/)
-- Email: [anolawa@gmail.com](mailto:anolawa@gmail.com)
+### [**Non-Euclidean Geometry Game (Demo Project)**](https://github.com/Mushroom-Ano/Non-Euclidian-Geometry-Game)
+A Unity-based game prototype exploring **non-Euclidean space mechanics** and creative spatial illusions.  
+![DemoProject](https://github.com/user-attachments/assets/8dca05e7-acd6-4f68-990f-cb837795a7d6)
+
+---
+
+### [**Kabal Minigame**](https://github.com/Mushroom-Ano/KabalMinigame)
+A Unity recreation of the classic **Kabal card game**, focusing on fluid game logic and UI design.  
+![KabalGame](https://github.com/user-attachments/assets/8ee83e35-75d4-4387-856c-589e009273c4)
+
+---
+
+### [**CentipedeCPP**](https://github.com/Mushroom-Ano/CentipedeCPP)
+A **C++** remake of the arcade classic *Centipede*, featuring modular gameplay and object-oriented architecture.  
+![CentipedeCPP](https://github.com/user-attachments/assets/23b8fff9-fe3a-4e17-951c-641fdeaafa96)
+
+---
+
+## 📫 Connect with Me
+- **LinkedIn:** [Ano Lawa](https://www.linkedin.com/in/ano-lawa-184176236/)  
+- **Email:** [anolawa@gmail.com](mailto:anolawa@gmail.com)
