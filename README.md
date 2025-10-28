@@ -29,6 +29,8 @@ I’m passionate about **creating innovative software solutions**, exploring **A
 ### [**AnoAI – Stable Diffusion Toolkit**](https://github.com/Mushroom-Ano/AnoAI-StableDiffusion)
 An AI art generation and experimentation platform built around **Stable Diffusion**, designed to streamline prompt creation and model management.  
 > Integrating creativity and deep learning for accessible AI image generation.
+![AnoAI](https://github.com/user-attachments/assets/fa214a39-d299-4492-9275-e06668576096)
+
 
 ---
 
