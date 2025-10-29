@@ -1,14 +1,15 @@
-# yo
+# yo!
 
 Software Engineer ;)
 I’m passionate about **creating innovative software solutions**, exploring **AI applications**, and developing **immersive games**.
 
 ---
 
-## 🧠 About Me
-- 🎓 Currently pursuing BSc Computer Science (Artificial Intelligence)  
-- 💡 Interested in AI-driven creativity, procedural generation, and gameplay mechanics  
-- 🧩 Always learning new technologies and experimenting with interactive systems  
+## About Me
+- 
+- Interested in AI-driven creativity, procedural generation, and gameplay mechanics  
+- Always learning new technologies and experimenting with interactive systems
+- Love Video Games ;) (Have around 600 on steam!)
 
 ---
 
