@@ -42,13 +42,13 @@ A Unity-based game prototype exploring **non-Euclidean space mechanics** and cre
 ---
 
 ### [**Kabal Minigame**](https://github.com/Mushroom-Ano/KabalMinigame)
-A Unity recreation of the classic **Kabal card game**, focusing on fluid game logic and UI design.  
+A Unique Unity game **Kabal card game**, focusing on fluid game logic and UI design.  
 ![KabalGame](https://github.com/user-attachments/assets/8ee83e35-75d4-4387-856c-589e009273c4)
 
 ---
 
 ### [**CentipedeCPP**](https://github.com/Mushroom-Ano/CentipedeCPP)
-A **C++** remake of the arcade classic *Centipede*, featuring modular gameplay and object-oriented architecture.  
+A **C++** reimagination of the arcade classic *Snake*, featuring modular and cozy gameplay and object-oriented architecture.  
 ![CentipedeCPP](https://github.com/user-attachments/assets/23b8fff9-fe3a-4e17-951c-641fdeaafa96)
 
 ---
