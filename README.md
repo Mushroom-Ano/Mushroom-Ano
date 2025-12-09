@@ -27,14 +27,6 @@ I’m passionate about **creating innovative software solutions**, exploring **A
 
 ## 🚀 Featured Projects
 
-### [**AnoAI – Stable Diffusion Toolkit**](https://github.com/Mushroom-Ano/AnoAI-StableDiffusion)
-An AI art generation and experimentation platform built around **Stable Diffusion**, designed to streamline prompt creation and model management.  
-> Integrating creativity and deep learning for accessible AI image generation.
-![AnoAI](https://github.com/user-attachments/assets/fa214a39-d299-4492-9275-e06668576096)
-
-
----
-
 ### [**Non-Euclidean Geometry Game (Demo Project)**](https://github.com/Mushroom-Ano/Non-Euclidian-Geometry-Game)
 A Unity-based game prototype exploring **non-Euclidean space mechanics** and creative spatial illusions.  
 ![DemoProject](https://github.com/user-attachments/assets/8dca05e7-acd6-4f68-990f-cb837795a7d6)
