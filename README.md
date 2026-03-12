@@ -122,7 +122,7 @@ A cozy C++ reimagining of the arcade classic with clean OOP architecture. Old sc
  
 <div align="center">
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ano-lawa-184176236/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ano-lawa/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anolawa@gmail.com)
  
 </div>
