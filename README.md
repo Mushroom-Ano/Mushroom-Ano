@@ -38,50 +38,50 @@ Status:     It never ends..
  
 ---
  
----
- 
 ## 🎮 Featured Projects
- 
+
 ### 🌀 [Non-Euclidean Geometry Game](https://github.com/Mushroom-Ano/Non-Euclidian-Geometry-Game)
 > *"What if walls were optional and hallways looped into themselves?"*
- 
-A Unity prototype that bends space itself — portals, impossible corridors, and geometry that doesn't play by the rules. Pure chaos, 10/10.
- 
-![DemoProject](https://github.com/user-attachments/assets/8dca05e7-acd6-4f68-990f-cb837795a7d6)
- 
+
+A Unity prototype that bends space itself — portals, impossible corridors, and geometry that doesn't play by the rules.
+
+<img src="https://github.com/user-attachments/assets/8dca05e7-acd6-4f68-990f-cb837795a7d6" width="100%" style="border-radius:8px" />
+
 `Unity` `C#` `Non-Euclidean` `Spatial Illusions` `Mind Bending`
- 
+
 ---
- 
+
 ### 🃏 [Four Souls Card Builder](https://github.com/Mushroom-Ano/Four-Souls-Card-Builder)
 > *"Because making cards for the Isaac card game is better when there's an app for it"*
- 
+
 A Flutter cross-platform app for designing and building custom **The Binding of Isaac: Four Souls** cards. For when your friends are tired of the base set.
- 
+
+<img src="https://github.com/user-attachments/assets/453a1069-415e-4413-9526-83adb270c859" width="100%" style="border-radius:8px" />
+
 `Flutter` `Dart` `Card Game` `Cross-Platform` `Four Souls`
- 
+
 ---
- 
+
 ### ♟️ [Kabal Minigame](https://github.com/Mushroom-Ano/KabalMinigame)
 > *"A card game, but make it a game game"*
- 
+
 A Unity implementation of the Kabal card game with clean UI and smooth game logic. Proof that card games and game engines go together perfectly.
- 
-![KabalGame](https://github.com/user-attachments/assets/8ee83e35-75d4-4387-856c-589e009273c4)
- 
+
+<img src="https://github.com/user-attachments/assets/8ee83e35-75d4-4387-856c-589e009273c4" width="100%" style="border-radius:8px" />
+
 `Unity` `C#` `Card Game` `UI Design`
- 
+
 ---
- 
+
 ### 🐛 [CentipedeCPP](https://github.com/Mushroom-Ano/CentipedeCPP)
 > *"Snake, but written in C++ with a PhD in object-oriented design"*
- 
+
 A cozy C++ reimagining of the arcade classic with clean OOP architecture. Old school vibes, modern code.
- 
-![CentipedeCPP](https://github.com/user-attachments/assets/23b8fff9-fe3a-4e17-951c-641fdeaafa96)
- 
+
+<img src="https://github.com/user-attachments/assets/23b8fff9-fe3a-4e17-951c-641fdeaafa96" width="100%" style="border-radius:8px" />
+
 `C++` `OOP` `Arcade` `Classic`
- 
+
 ---
 
 ## Tech Stack
